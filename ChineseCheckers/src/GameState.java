@@ -1,0 +1,3 @@
+public enum GameState {
+    PLAYING, WHITE_WIN, GREEN_WIN, RED_WIN, BLACK_WIN, YELLOW_WIN, PURPLE_WIN
+}
